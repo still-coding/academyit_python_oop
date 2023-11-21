@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "482cdb300a42b00b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6349a98a4bd3a334",
+        "type": "tabs",
+        "dimension": 99.99999999999999,
+        "children": [
+          {
+            "id": "959ebec13b2b9812",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Классы и объекты.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "14c54a8a99ab77b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1bc79f41f501651",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "514ece123a4437f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "75cdfb5742d46117",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ee421baaf8d7697f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "606c9201fdae08d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "22ec30d0c3c6254b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2d00b5a3a698878",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Классы и объекты.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "91f75078353b8fc8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Классы и объекты.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e75e882f34d25ea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7db2ccfe3a76d960",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Классы и объекты.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
+    }
+  },
+  "active": "514ece123a4437f5",
+  "lastOpenFiles": [
+    "README.md",
+    "0. Введение.md",
+    "1. Классы и объекты.md",
+    "code/p1_classes_objects/classes5.py",
+    "code/classes5.py",
+    "code/p0_intro/decorators.py",
+    "code/p1_classes_objects/decorators.py",
+    "code/p1_classes_objects/classes4.py",
+    "code/classes4.py",
+    "code/p1_classes_objects/classes3.py",
+    "code/classes3.py",
+    "code/p1_classes_objects/classes2.py",
+    "code/classes2.py",
+    "Excalidraw/1. Классы и объекты 2023-11-21 14.54.25.excalidraw.md",
+    "Excalidraw/1. Классы и объекты 2023-11-21 13.58.06.excalidraw.md",
+    "Pasted image 20231121125608.png",
+    "Excalidraw/0. Введение 2023-11-21 12.13.13.excalidraw.md"
+  ]
+}
