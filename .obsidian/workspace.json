@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "73c2035b1cf2fdc7",
+        "id": "e4da24e5f5e06a58",
         "type": "tabs",
         "children": [
           {
-            "id": "416c0a10a4fe5c44",
+            "id": "d0cb60bc554120e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Наследование.md",
+                "file": "3. Полиморфизм.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5
+    "width": 292.5
   },
   "right": {
     "id": "606c9201fdae08d8",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Наследование.md",
+                "file": "3. Полиморфизм.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Наследование.md",
+                "file": "3. Полиморфизм.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Наследование.md"
+                "file": "3. Полиморфизм.md"
               }
             }
           }
@@ -148,15 +148,20 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "416c0a10a4fe5c44",
+  "active": "d0cb60bc554120e3",
   "lastOpenFiles": [
-    "Excalidraw/2. Наследование 2023-11-22 14.14.51.excalidraw.md",
+    "code/p3_poly/poly1.py",
+    "code/p3_poly",
+    "Pasted image 20231122165403.png",
+    "Pasted image 20231122165032.png",
+    "2. Наследование.md",
+    "3. Полиморфизм.md",
     "Excalidraw/2. Наследование 2023-11-22 14.14.51.excalidraw.svg",
+    "Excalidraw/2. Наследование 2023-11-22 14.14.51.excalidraw.md",
     "Excalidraw/2. Наследование 2023-11-22 14.06.57.excalidraw.md",
     "Excalidraw/2. Наследование 2023-11-22 14.06.57.excalidraw.svg",
     "Excalidraw/2. Наследование 2023-11-22 13.52.45.excalidraw.md",
     "Excalidraw/2. Наследование 2023-11-22 13.52.45.excalidraw.svg",
-    "2. Наследование.md",
     "Excalidraw/2. Наследование 2023-11-22 13.29.08.excalidraw.svg",
     "Excalidraw/2. Наследование 2023-11-22 13.29.08.excalidraw.md",
     "Excalidraw/2. Наследование 2023-11-22 13.21.54.excalidraw.md",
@@ -171,7 +176,6 @@
     "code/inh.5.py",
     "code/p2_inheritance/inh4.py",
     "code/p2_inheritance/inh3.py",
-    "code/inh3.py",
     "1. Классы и объекты.md",
     "README.md",
     "Excalidraw/0. Введение 2023-11-21 12.13.13.excalidraw.md",
@@ -179,7 +183,6 @@
     "Excalidraw/1. Классы и объекты 2023-11-21 14.54.25.excalidraw.md",
     "Excalidraw/1. Классы и объекты 2023-11-21 14.54.25.excalidraw.svg",
     "Excalidraw/1. Классы и объекты 2023-11-21 13.58.06.excalidraw.svg",
-    "Excalidraw/1. Классы и объекты 2023-11-21 13.58.06.excalidraw.md",
-    "Pasted image 20231121125608.png"
+    "Excalidraw/1. Классы и объекты 2023-11-21 13.58.06.excalidraw.md"
   ]
 }
