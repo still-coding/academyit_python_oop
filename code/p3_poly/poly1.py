@@ -97,8 +97,16 @@ class Rus(Character):
 
 
 class Lizard(Character):
-    pass
+    classname = 'Ящер'
+    def __init__(self, name):
+        super().__init__(name)
+        self._skills = (
+            Skill("Ящерский удар хвостом", DamageType.PHYSICAL, DamageRange.MELEE, 10),
+            Skill("Взрыв Гипербореи", DamageType.FIRE, DamageRange.RANGE, 20),
+            Skill("Отравленная чешуя", DamageType.POISON, DamageRange.MELEE, 15),
+        )
+        self._resist = DamageType.POISON
 
 
 radislav = Rus('Радислав Багиров')
-
+lizard = Lizard('Проклятущий')
