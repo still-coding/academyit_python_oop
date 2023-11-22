@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6349a98a4bd3a334",
+        "id": "73c2035b1cf2fdc7",
         "type": "tabs",
         "children": [
           {
-            "id": "959ebec13b2b9812",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Введение.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5451158362251f73",
+            "id": "416c0a10a4fe5c44",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 420.5
   },
   "right": {
     "id": "606c9201fdae08d8",
@@ -161,25 +148,30 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "5451158362251f73",
+  "active": "416c0a10a4fe5c44",
   "lastOpenFiles": [
     "Excalidraw/2. Наследование 2023-11-22 14.14.51.excalidraw.md",
+    "Excalidraw/2. Наследование 2023-11-22 14.14.51.excalidraw.svg",
+    "Excalidraw/2. Наследование 2023-11-22 14.06.57.excalidraw.md",
+    "Excalidraw/2. Наследование 2023-11-22 14.06.57.excalidraw.svg",
+    "Excalidraw/2. Наследование 2023-11-22 13.52.45.excalidraw.md",
+    "Excalidraw/2. Наследование 2023-11-22 13.52.45.excalidraw.svg",
     "2. Наследование.md",
+    "Excalidraw/2. Наследование 2023-11-22 13.29.08.excalidraw.svg",
+    "Excalidraw/2. Наследование 2023-11-22 13.29.08.excalidraw.md",
+    "Excalidraw/2. Наследование 2023-11-22 13.21.54.excalidraw.md",
+    "0. Введение.md",
+    "Excalidraw/2. Наследование 2023-11-22 13.21.54.excalidraw.svg",
     "code/p2_inheritance/inh7.py",
     "code/inh7.py",
-    "Excalidraw/2. Наследование 2023-11-22 14.06.57.excalidraw.md",
     "code/p2_inheritance/inh6.py",
     "code/inh6.py",
-    "Excalidraw/2. Наследование 2023-11-22 13.52.45.excalidraw.md",
     "code/p2_inheritance/inh5.py",
     "code/p2_inheritance/inh.5.py",
     "code/inh.5.py",
     "code/p2_inheritance/inh4.py",
-    "Excalidraw/2. Наследование 2023-11-22 13.29.08.excalidraw.md",
-    "Excalidraw/2. Наследование 2023-11-22 13.21.54.excalidraw.md",
     "code/p2_inheritance/inh3.py",
     "code/inh3.py",
-    "0. Введение.md",
     "1. Классы и объекты.md",
     "README.md",
     "Excalidraw/0. Введение 2023-11-21 12.13.13.excalidraw.md",
