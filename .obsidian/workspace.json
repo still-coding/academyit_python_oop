@@ -6,7 +6,6 @@
       {
         "id": "1392a3ea9e155867",
         "type": "tabs",
-        "dimension": 46.90656565656566,
         "children": [
           {
             "id": "d6bcca1b7124d8e1",
@@ -14,39 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Полиморфизм.md",
+                "file": "5. Исключения.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "bb1e63104f7b2d0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Collections.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "ed3cdc716ade68ef",
-        "type": "tabs",
-        "dimension": 53.09343434343434,
-        "children": [
-          {
-            "id": "30302dad2ecf0f61",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/4. Collections 2023-11-23 12.32.16.excalidraw.md"
               }
             }
           }
@@ -116,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Collections.md",
+                "file": "5. Исключения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Collections.md",
+                "file": "5. Исключения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Collections.md"
+                "file": "5. Исключения.md"
               }
             }
           }
@@ -179,24 +148,25 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "bb1e63104f7b2d0f",
+  "active": "d6bcca1b7124d8e1",
   "lastOpenFiles": [
-    "code/lists/python/my_list.py",
-    "code/lists/python/list_node.py",
-    "code/lists/python/list_node",
-    "code/lists/python/test_data.py",
-    "code/lists/python/pytest.ini",
-    "code/lists/python/lists_test.py",
-    "code/lists/python/Pipfile.lock",
-    "code/lists/python/Pipfile",
-    "code/lists/python",
-    "code/lists/c/test-framework/unity_internals.h",
-    "code/lists/c/test-framework/unity_fixture_internals.h",
+    "3. Полиморфизм.md",
+    "4. Collections.md",
+    "0. Введение.md",
+    "5. Исключения.md",
+    "code/p6_exc/context.py",
+    "code/context.py",
+    "code/p6_exc/iter.py",
+    "code/iter.py",
+    "code/p6_exc/gen.py",
+    "code/gen.py",
+    "code/p6_exc/exc.py",
+    "code/p6_exc",
+    "code/p6_venv/exc.py",
+    "code/p6_venv",
     "code/lists/README.md",
     "code/p5_venv/env/lib/python3.11/site-packages/numpy/random/LICENSE.md",
     "Excalidraw/4. Collections 2023-11-23 12.32.16.excalidraw.md",
-    "4. Collections.md",
-    "3. Полиморфизм.md",
     "Pasted image 20231122184653.png",
     "Pasted image 20231122165403.png",
     "Pasted image 20231122165032.png",
@@ -211,7 +181,6 @@
     "Excalidraw/2. Наследование 2023-11-22 13.29.08.excalidraw.svg",
     "Excalidraw/2. Наследование 2023-11-22 13.29.08.excalidraw.md",
     "Excalidraw/2. Наследование 2023-11-22 13.21.54.excalidraw.md",
-    "0. Введение.md",
     "Excalidraw/2. Наследование 2023-11-22 13.21.54.excalidraw.svg",
     "1. Классы и объекты.md",
     "README.md",
