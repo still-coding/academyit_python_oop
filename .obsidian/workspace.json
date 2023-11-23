@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1392a3ea9e155867",
+        "id": "4e09bcaf8c3fb608",
         "type": "tabs",
-        "dimension": 52.690863579474346,
         "children": [
           {
-            "id": "d6bcca1b7124d8e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Исключения.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b4b8258159261dd",
+            "id": "e5a64ac263524a42",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,24 +16,6 @@
                 "file": "6. Алгоритмы поиска и сортировки.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "397c82004ceabb71",
-        "type": "tabs",
-        "dimension": 47.309136420525654,
-        "children": [
-          {
-            "id": "47647f22f2fa2d43",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/6. Алгоритмы поиска 2023-11-23 17.25.14.excalidraw.md"
               }
             }
           }
@@ -179,26 +148,31 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "3b4b8258159261dd",
+  "active": "e5a64ac263524a42",
   "lastOpenFiles": [
-    "Excalidraw/6. Алгоритмы поиска 2023-11-23 17.25.14.excalidraw.md",
-    "6. Алгоритмы поиска и сортировки.md",
-    "Excalidraw/6. Алгоритмы поиска 2023-11-23 16.52.57.excalidraw.md",
+    "code/p8_bst/trees/python/pics/tree_5_140703948685712.png",
+    "code/p8_bst/trees/python/pics/tree_5_140703948685712.gv",
+    "code/p8_bst/trees/python/pics",
+    "code/p8_bst/trees/python/demo.py",
+    "code/p8_bst/trees/python/tree_node.py",
+    "code/p8_bst/trees/c/test-framework/unity_internals.h",
+    "code/p8_bst/trees/c/test-framework/unity_fixture_internals.h",
+    "code/p8_bst/trees/c/test-framework/unity_fixture.h",
+    "code/p8_bst/trees/c/test-framework/unity_fixture.c",
+    "code/p8_bst/trees/c/test-framework/unity_config.h",
+    "code/p8_bst/trees/c/test-framework/unity.h",
+    "code/p8_bst/trees/README.md",
+    "code/trees/README.md",
     "Excalidraw/6. Алгоритмы поиска 2023-11-23 16.18.19.excalidraw.md",
-    "code/p7_search/search.py",
-    "code/p7_search",
+    "Excalidraw/6. Алгоритмы поиска 2023-11-23 16.18.19.excalidraw.svg",
+    "6. Алгоритмы поиска и сортировки.md",
+    "Excalidraw/6. Алгоритмы поиска 2023-11-23 17.25.14.excalidraw.md",
+    "Excalidraw/6. Алгоритмы поиска 2023-11-23 17.25.14.excalidraw.svg",
     "5. Исключения.md",
-    "3. Полиморфизм.md",
-    "4. Collections.md",
     "0. Введение.md",
-    "code/p6_exc/context.py",
-    "code/context.py",
-    "code/p6_exc/iter.py",
-    "code/iter.py",
-    "code/p6_exc/gen.py",
-    "code/gen.py",
-    "code/p6_exc/exc.py",
-    "code/p6_exc",
+    "4. Collections.md",
+    "Excalidraw/6. Алгоритмы поиска 2023-11-23 16.52.57.excalidraw.md",
+    "3. Полиморфизм.md",
     "code/lists/README.md",
     "code/p5_venv/env/lib/python3.11/site-packages/numpy/random/LICENSE.md",
     "Excalidraw/4. Collections 2023-11-23 12.32.16.excalidraw.md",
@@ -216,11 +190,9 @@
     "Excalidraw/2. Наследование 2023-11-22 13.29.08.excalidraw.svg",
     "Excalidraw/2. Наследование 2023-11-22 13.29.08.excalidraw.md",
     "Excalidraw/2. Наследование 2023-11-22 13.21.54.excalidraw.md",
-    "Excalidraw/2. Наследование 2023-11-22 13.21.54.excalidraw.svg",
     "1. Классы и объекты.md",
     "README.md",
     "Excalidraw/0. Введение 2023-11-21 12.13.13.excalidraw.md",
-    "Excalidraw/0. Введение 2023-11-21 12.13.13.excalidraw.svg",
     "Excalidraw/1. Классы и объекты 2023-11-21 14.54.25.excalidraw.md",
     "Excalidraw/1. Классы и объекты 2023-11-21 13.58.06.excalidraw.md"
   ]
