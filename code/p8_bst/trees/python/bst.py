@@ -72,3 +72,19 @@ class BST:
         return self.recursive_postorder_traverse(current_node.left) + \
             self.recursive_postorder_traverse(current_node.right) + \
             [current_node.value]
+
+
+    def level_order_traverse(self):
+        if self.root is None:
+            return []
+        q = []
+        q.append(self.root)
+        result = []
+        while q:
+            current_node = q.pop(0)
+            result.append(current_node.value)
+            if current_node.left:
+                q.append(current_node.left)
+            if current_node.right:
+                q.append(current_node.right)
+        return result

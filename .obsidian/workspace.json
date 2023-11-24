@@ -6,6 +6,7 @@
       {
         "id": "4e09bcaf8c3fb608",
         "type": "tabs",
+        "dimension": 53.62953692115144,
         "children": [
           {
             "id": "e5a64ac263524a42",
@@ -13,9 +14,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Алгоритмы поиска и сортировки.md",
+                "file": "7. Бинарные деревья поиска.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b5c6ce5ad991e32a",
+        "type": "tabs",
+        "dimension": 46.37046307884856,
+        "children": [
+          {
+            "id": "6c0136ca841102cd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/7. Бинарные деревья поиска 2023-11-24 12.25.40.excalidraw.md"
               }
             }
           }
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Алгоритмы поиска и сортировки.md",
+                "file": "7. Бинарные деревья поиска.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Алгоритмы поиска и сортировки.md",
+                "file": "7. Бинарные деревья поиска.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Алгоритмы поиска и сортировки.md"
+                "file": "7. Бинарные деревья поиска.md"
               }
             }
           }
@@ -150,50 +168,50 @@
   },
   "active": "e5a64ac263524a42",
   "lastOpenFiles": [
+    "Excalidraw/7. Бинарные деревья поиска 2023-11-24 12.25.40.excalidraw.md",
+    "7. Бинарные деревья поиска.md",
+    "code/p8_bst/trees/python/pics/tree_5_139718115719888.png",
+    "code/p8_bst/trees/python/pics/tree_5_139718115719888.gv",
+    "6. Алгоритмы поиска и сортировки.md",
+    "Excalidraw/7. Бинарные деревья поиска 2023-11-24 12.05.27.excalidraw.md",
+    "Excalidraw/7. Бинарные деревья поиска 2023-11-24 12.21.38.excalidraw.md",
+    "Excalidraw/7. Бинарные деревья поиска 2023-11-24 12.14.57.excalidraw.md",
+    "Excalidraw/7. Бинарные деревья поиска 2023-11-24 12.10.29.excalidraw.md",
+    "code/p8_bst/trees/python/pics/tree_5_140406461823568.png",
+    "code/p8_bst/trees/python/pics/tree_5_140406461823568.gv",
+    "code/p8_bst/trees/python/pics/tree_5_139976718799312.png",
+    "code/p8_bst/trees/python/pics/tree_5_139976718799312.gv",
+    "code/p8_bst/trees/python/pics/tree_5_140058584257040.png",
+    "code/p8_bst/trees/python/pics/tree_5_140058584257040.gv",
+    "code/p8_bst/trees/python/pics",
+    "4. Collections.md",
+    "3. Полиморфизм.md",
+    "2. Наследование.md",
+    "5. Исключения.md",
+    "1. Классы и объекты.md",
+    "0. Введение.md",
     "code/p8_bst/trees/python/pics/tree_5_140703948685712.png",
     "code/p8_bst/trees/python/pics/tree_5_140703948685712.gv",
-    "code/p8_bst/trees/python/pics",
     "code/p8_bst/trees/python/demo.py",
     "code/p8_bst/trees/python/tree_node.py",
     "code/p8_bst/trees/c/test-framework/unity_internals.h",
     "code/p8_bst/trees/c/test-framework/unity_fixture_internals.h",
-    "code/p8_bst/trees/c/test-framework/unity_fixture.h",
-    "code/p8_bst/trees/c/test-framework/unity_fixture.c",
-    "code/p8_bst/trees/c/test-framework/unity_config.h",
-    "code/p8_bst/trees/c/test-framework/unity.h",
     "code/p8_bst/trees/README.md",
     "code/trees/README.md",
     "Excalidraw/6. Алгоритмы поиска 2023-11-23 16.18.19.excalidraw.md",
     "Excalidraw/6. Алгоритмы поиска 2023-11-23 16.18.19.excalidraw.svg",
-    "6. Алгоритмы поиска и сортировки.md",
     "Excalidraw/6. Алгоритмы поиска 2023-11-23 17.25.14.excalidraw.md",
     "Excalidraw/6. Алгоритмы поиска 2023-11-23 17.25.14.excalidraw.svg",
-    "5. Исключения.md",
-    "0. Введение.md",
-    "4. Collections.md",
     "Excalidraw/6. Алгоритмы поиска 2023-11-23 16.52.57.excalidraw.md",
-    "3. Полиморфизм.md",
     "code/lists/README.md",
     "code/p5_venv/env/lib/python3.11/site-packages/numpy/random/LICENSE.md",
     "Excalidraw/4. Collections 2023-11-23 12.32.16.excalidraw.md",
     "Pasted image 20231122184653.png",
     "Pasted image 20231122165403.png",
     "Pasted image 20231122165032.png",
-    "Pasted image 20231121125608.png",
-    "2. Наследование.md",
-    "Excalidraw/2. Наследование 2023-11-22 14.14.51.excalidraw.svg",
     "Excalidraw/2. Наследование 2023-11-22 14.14.51.excalidraw.md",
     "Excalidraw/2. Наследование 2023-11-22 14.06.57.excalidraw.md",
-    "Excalidraw/2. Наследование 2023-11-22 14.06.57.excalidraw.svg",
     "Excalidraw/2. Наследование 2023-11-22 13.52.45.excalidraw.md",
-    "Excalidraw/2. Наследование 2023-11-22 13.52.45.excalidraw.svg",
-    "Excalidraw/2. Наследование 2023-11-22 13.29.08.excalidraw.svg",
-    "Excalidraw/2. Наследование 2023-11-22 13.29.08.excalidraw.md",
-    "Excalidraw/2. Наследование 2023-11-22 13.21.54.excalidraw.md",
-    "1. Классы и объекты.md",
-    "README.md",
-    "Excalidraw/0. Введение 2023-11-21 12.13.13.excalidraw.md",
-    "Excalidraw/1. Классы и объекты 2023-11-21 14.54.25.excalidraw.md",
-    "Excalidraw/1. Классы и объекты 2023-11-21 13.58.06.excalidraw.md"
+    "Excalidraw/2. Наследование 2023-11-22 13.29.08.excalidraw.md"
   ]
 }
