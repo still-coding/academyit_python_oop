@@ -37,6 +37,6 @@ class MyException(Exception):
         return "But then I took an arrow in the knee"
 
 
-print("I used to an adventurer like you")
+print("I used to be an adventurer like you")
 
 raise MyException
